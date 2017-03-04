@@ -47,12 +47,7 @@ import javax.swing.event.UndoableEditEvent;
 import javax.swing.event.UndoableEditListener;
 import javax.swing.text.BadLocationException;
 import javax.swing.undo.UndoManager;
- 
-/**
- * Clase principal donde se construye la GUI del editor.
- *
- * @author Dark[byte]
- */
+
 public class Main {
  
     private JFrame jFrame;            //instancia de JFrame (ventana principal)
